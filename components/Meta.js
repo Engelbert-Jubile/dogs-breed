@@ -81,7 +81,7 @@ export default function Meta(props) {
         content="/assets/ms-icon-144x144.png"
       />
       <meta name="theme-color" content="#ffffff" />
-      <meta name="description" content="Easy & tasty low carb recipe" />
+      <meta name="description" content="Find some cute dogs!" />
     </Head>
   );
 }
