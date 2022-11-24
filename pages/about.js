@@ -40,18 +40,16 @@ export default function About() {
                 <p className="leading-relaxed text-lg mb-4">
                   Hello! I am Engelbert Jubile Satrio Lukito, an undergraduate student in
                   Computer Engineering, Diponegoro University. I am someone who
-                  is enthusiastic about trying new challenges, quite experienced
-                  and has an interest in UI/UX Design and Research. I like to
+                  is enthusiastic about trying some new challenges, quite experienced
+                  and has an interest in UI/UX Design and Full Stack Developer. I like to
                   communicate with people and I have experienced in
                   organizations.
                 </p>
 
                 <p className="leading-relaxed text-lg mb-4">
-                  Low Carb Recipes is an application that contains food recipes
-                  and how to cook delicious food with healthy nutrition and low
-                  carbohydrate calories. This application was developed using
+                  Dogs Breed is an application that contains several types of dog breeds. This application was developed using
                   next.js with the best practices that I have learned. Apart
-                  from that, this application is also deployed using Vercel.
+                  from that, this application is also deployed using VercelGit.
                 </p>
               </div>
             </div>
