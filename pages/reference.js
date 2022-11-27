@@ -22,7 +22,7 @@ export default function Reference() {
                 Food Reference
               </h2>
               <p className="leading-relaxed text-base">
-                Food Reference on this Low Carb Recipes Application is using
+                Food Reference on this Dogs Breed Application is using
                 Wikipedia.
               </p>
             </div>
@@ -33,7 +33,7 @@ export default function Reference() {
                 Application Reference
               </h2>
               <p className="leading-relaxed text-base">
-                Application Reference on this Low Carb Recipes Application is
+                Application Reference on this Dogs Breed Application is
                 using Next.js and Vercel.
               </p>
             </div>
@@ -50,8 +50,7 @@ export default function Reference() {
                 API Reference
               </h2>
               <p className="leading-relaxed text-base">
-                API or Application Programming Interface on this Low Carb
-                Recipes is using RAPID API.
+                API or Application Programming Interface on this Dogs Breed is using RAPID API.
               </p>
             </div>
           </div>
