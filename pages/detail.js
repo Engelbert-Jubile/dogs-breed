@@ -28,7 +28,7 @@ export default function Detail() {
 
   return (
     <div>
-      <Meta title={`Low Carb Recipes${title}`} />
+      <Meta title={`Dogs Breed${title}`} />
 
       <Header />
 

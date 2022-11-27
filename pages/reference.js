@@ -7,7 +7,7 @@ import icon from "../public/assets/apple-icon.png";
 export default function Reference() {
   return (
     <div>
-      <Meta title="Low Carb Recipes: Reference" />
+      <Meta title="Dogs Breed: Reference" />
 
       <Header />
 

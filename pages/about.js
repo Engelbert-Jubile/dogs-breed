@@ -2,12 +2,12 @@ import Meta from "../components/Meta";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import Image from "next/image";
-import icon from "../public/assets/apple-icon.png";
+import profile from "../public/assets/profile1.png";
 
 export default function About() {
   return (
     <div>
-      <Meta title="Low Carb Recipes: About" />
+      <Meta title="dogs breed: About" />
 
       <Header />
 
@@ -18,7 +18,7 @@ export default function About() {
               <div className="sm:w-1/3 text-center sm:pr-8 sm:py-8">
                 <div className="w-20 h-20 rounded-full inline-flex items-center justify-center bg-gray-200 text-gray-400">
                   <Image
-                    src={icon}
+                    src={profile}
                     alt="profile"
                     className="rounded-full"
                     width="100%"
