@@ -5,7 +5,7 @@ import Footer from "../components/Footer";
 export default function FAQ() {
   return (
     <div>
-      <Meta title="Low Carb Recipes: FAQ" />
+      <Meta title="Dogs Breed: FAQ" />
 
       <Header />
 

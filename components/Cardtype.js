@@ -1,13 +1,13 @@
 import Image from "next/image";
 import Link from "next/link";
 
-export default function Card(props) {
+export default function Cardtype(props) {
   try {
     return (
       <div className="lg:w-1/5 md:w-1/2 p-4 w-full ">
         <Link
           href={{
-            pathname: "/detail",
+            pathname: "/detail-latest",
             query: { data: JSON.stringify(props) },
           }}
           className="block relative h-48 rounded "
