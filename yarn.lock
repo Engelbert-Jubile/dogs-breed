@@ -3501,6 +3501,11 @@ serialize-javascript@^6.0.0:
   dependencies:
     randombytes "^2.1.0"
 
+shard@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/shard/-/shard-1.1.0.tgz#27374ec7b648b612c64213ae16fbcc97d8854242"
+  integrity sha512-JlvUPFMDM+AI4/JZVww5aHe10R9PsKFxAsYT17F4m51wQRQLzqWBXL/WCIC/A1WkoX1QQ2oVL16rNWsUv0jaFw==
+
 shebang-command@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/shebang-command/-/shebang-command-2.0.0.tgz#ccd0af4f8835fbdc265b82461aaf0c36663f34ea"
