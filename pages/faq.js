@@ -35,8 +35,8 @@ When it comes to our four-legged friends, it’s never too late to learn as much
             <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm">
               Engelbert Jubile Satrio Lukito
             </h2>
-            <p className="text-gray-500">
-              Undergraduate Computer Engineering student
+            <p className="text-black-500">
+              Computer Engineering student Diponegoro University
             </p>
           </div>
         </div>
